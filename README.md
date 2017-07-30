@@ -24,7 +24,7 @@ The problems will be sorted according to the following categories:
  - Graphs
  - Computational Geometry
  
- - Each problem will have two directories
+ Each problem will have two directories
   - Problems
     this will have a link to the problem in the website that it came from, a description, test input files and the corresponding output file for each input file.
   - Solution 
