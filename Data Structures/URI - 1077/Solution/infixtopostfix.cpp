@@ -1,3 +1,8 @@
+//Accepted
+/*
+	The main concern here is with special cases when processing non-commutative operations and
+operations that are processed in inverse order (i.e. potentiation(^))
+*/
 #include <cstdio>
 #include <string>
 #include <iostream>
