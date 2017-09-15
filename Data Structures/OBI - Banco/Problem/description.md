@@ -1,4 +1,4 @@
-[link to question] (http://olimpiada.ic.unicamp.br/pratique/programacao/nivel2/2012f2p2_banco)
+[link to question](http://olimpiada.ic.unicamp.br/pratique/programacao/nivel2/2012f2p2_banco)
 
 A legislação em vigor obriga os bancos a iniciarem o atendimento a um cliente em no máximo 20 minutos após a entrada do cliente na fila única da agência bancária. A fila é única, assim um caixa livre solicita ao primeiro cliente da fila que venha ao seu guichê para ser atendido. (Vamos ignorar aqui o problema dos clientes prioritários, idosos, gestantes, portadores de necessidades especiais, etc.) Estamos supondo também que nenhum caixa atende dois clientes ao mesmo tempo.
 
