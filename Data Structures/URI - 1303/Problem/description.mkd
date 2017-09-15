@@ -1,4 +1,4 @@
-Link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1303
+[Link to question](https://www.urionlinejudge.com.br/judge/pt/problems/view/1303)
 
 O San Antonio é o time da cidade na NBA. Já foi algumas vezes campeão de sua conferência e revelou vários excelentes jogadores.
 
@@ -6,12 +6,12 @@ Em um campeonato de basquete os times jogam todos entre si em turno único. A vi
 
 Sua tarefa neste problema é fazer um programa que recebe os resultados dos jogos de um campeonato e imprime a classiﬁcação ﬁnal.
 
-Entrada
+# Entrada
 
 São dadas várias instâncias. Para cada instância é dada o número 0 ≤ n ≤ 100 de times no campeonato. O valor n = 0 indica o ﬁm dos dados. A seguir vêm n (n−1) / 2 linhas indicando os resultados das partidas. Em cada linha são dados quatro inteiros x, y, z e w. Os inteiros x e z pertencem ao conjunto {1, 2, . . . , n} e representam os números de inscrição dos times na liga. Os inteiros y e w são, respectivamente, os números de pontos do time x e do time z na partida descrita.
 
-Saída
+# Saída
 
 Para cada instância solucionada, você deverá imprimir um identiﬁcador "Instancia h" em que h é um número inteiro, sequencial e crescente a partir de 1. Na linha seguinte, deve ser impressa a permutação dos inteiros 1 a n da classiﬁcação do campeonato. 
 
-Obs: Um espaço em branco deve ser impresso entre cada um desses inteiros e uma linha em branco deve deve ser impressa entre as saídas de dois casos de teste.
+**Obs: Um espaço em branco deve ser impresso entre cada um desses inteiros e uma linha em branco deve deve ser impressa entre as saídas de dois casos de teste.**
