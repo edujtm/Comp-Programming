@@ -1,3 +1,9 @@
+//Accepted
+/*
+Tive um problema com arredondamento de ponto flutuante ao calcular a cesta average,
+após isso restou apenas consertar o presentation error pois a descrição do problema
+não especifíca que não deve ser colocada quebra de linha ao fim do resultado.
+*/
 #include <iostream>
 #include <algorithm>
 
@@ -26,8 +32,9 @@ int main() {
     int times[MAXW];
 	
 	cin >> n;
-
-	do {
+	int count = 0;
+	while (n != 0) {
+		if (count++ > 0) cout << endl;
 		int x, y, w, z;
 		for (int i = 0; i < n; ++i) {
 			times[i] = i + 1;
@@ -53,8 +60,8 @@ int main() {
 			score[w][0] += z;
 			score[w][1] += y;
 			if (score[x][1] != 0 && score[w][1] != 0) {
-				cAvg[x] = (double) score[x][0] / score[x][1];
-				cAvg[w] = (double) score[w][0] / score[w][1];
+				cAvg[x] = ((double) score[x][0]) / score[x][1];
+				cAvg[w] = ((double) score[w][0]) / score[w][1];
 			} else if (cAvg[x] == 0) {
 				cAvg[x] = score[x][0];
 			} else {
@@ -70,11 +77,11 @@ int main() {
 		for (int i = 1; i < n; i++) {
 			cout << " " << times[i];
 		}
-		cout << endl << endl;
+		cout << endl;
 
 		inst++;
 		cin >> n;
 
-	} while (n != 0);
+	}
 
 }
