@@ -22,7 +22,7 @@ A saída deverá conter apenas uma linha, contendo um único inteiro, o número 
 
 # Restrições
 
-** 1 ≤ C ≤ 10 **
-** 1 ≤ N ≤ 1000 **
-** 0 ≤ T ≤ 300 **
-** 1 ≤ D ≤ 10 **
+* **1 ≤ C ≤ 10**
+* **1 ≤ N ≤ 1000**
+* **0 ≤ T ≤ 300**
+* **1 ≤ D ≤ 10**
