@@ -25,8 +25,8 @@ The problems will be sorted according to the following categories:
  - Computational Geometry
  
  Each problem will have two directories
-  - Problems
+  - *Problems*:
     this will have a link to the problem in the website that it came from, a description, test input files and the corresponding output file for each input file.
-  - Solution 
+  - *Solution*: 
     this will have codes for the solution that will be tagged with solved or unsolved - [correspoding error]
     [correspoding error] can be: Time Limit Exceeded, Compilation Error, Wrong Answer, Runtime Error or Presentation Error
