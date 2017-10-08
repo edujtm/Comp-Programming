@@ -1,6 +1,0 @@
-#Problems
-
-OBI - Banco - [link to question](http://olimpiada.ic.unicamp.br/pratique/programacao/nivel2/2012f2p2_banco) - [Solution & input]()
-URI - 1077 - Infix to posfix - [link to question]() - [Solution & input](https://www.urionlinejudge.com.br/judge/pt/problems/view/1077)
-URI - 1303 - Spurs Rocks - [link to question](https://www.urionlinejudge.com.br/judge/pt/problems/view/1303) - [Solution & input]()
-URI - 1022 - TDA Racional - [link to question](https://www.urionlinejudge.com.br/judge/pt/problems/view/1022) - [Solution & input]()
